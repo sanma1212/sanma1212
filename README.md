@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santosh Mali
 - 🌱 I’m currently learning
-    javascript,python
+   java.js
 - 💞️ I’m looking to collaborate on FullStack projects
 - 📫 How to reach me santoshmali20@oulook.com
 - ⚡ Fun fact: I love Trying new Things
